@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/counter.html"
+      "destination": "/todo.html"
     }
   ]
 }
